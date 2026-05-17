@@ -11,6 +11,12 @@
 This repository is a fork of [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) and contains a growing collection of AI-powered applications, demos, and examples. Each app is self-contained and demonstrates different use cases of modern AI tools and frameworks.
 
 > **Personal note:** I'm using this fork primarily to learn LangChain and experiment with RAG pipelines. Most of my additions will live under `apps/rag/`. Currently working through the LangChain docs and porting the examples here as I go — starting with a basic PDF Q&A app.
+>
+> **Learning log:**
+> - [x] Basic PDF Q&A with FAISS
+> - [ ] Multi-document RAG with metadata filtering
+> - [ ] Conversational memory + RAG combo
+> - [ ] Swap FAISS for Chroma and compare retrieval quality
 
 ## 🗂️ Project Structure
 
@@ -75,7 +81,3 @@ We welcome contributions! Please check out our guidelines before submitting.
 For bugs, features, or questions, please use the appropriate [issue template](https://github.com/awesome-ai-apps/awesome-ai-apps/issues/new/choose).
 
 ## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
-## ⭐ Ac
