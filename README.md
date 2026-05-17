@@ -57,6 +57,7 @@ awesome-ai-apps/
 
 | App | Description | Framework | Status |
 |-----|-------------|-----------|--------|
+| [PDF Q&A](apps/rag/pdf-qa/) | Ask questions about a PDF using LangChain + FAISS | LangChain | 🚧 WIP |
 | Coming Soon | More apps being added! | — | 🔜 |
 
 ## 🤝 Contributing
@@ -77,6 +78,4 @@ For bugs, features, or questions, please use the appropriate [issue template](ht
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
-## ⭐ Acknowledgements
-
-Special thanks to [Arindam200](https://github.com/Arindam200) for the original repository that inspired 
+## ⭐ Ac
