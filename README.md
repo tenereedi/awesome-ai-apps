@@ -10,7 +10,7 @@
 
 This repository is a fork of [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) and contains a growing collection of AI-powered applications, demos, and examples. Each app is self-contained and demonstrates different use cases of modern AI tools and frameworks.
 
-> **Personal note:** I'm using this fork primarily to learn LangChain and experiment with RAG pipelines. Most of my additions will live under `apps/rag/`.
+> **Personal note:** I'm using this fork primarily to learn LangChain and experiment with RAG pipelines. Most of my additions will live under `apps/rag/`. Currently working through the LangChain docs and porting the examples here as I go — starting with a basic PDF Q&A app.
 
 ## 🗂️ Project Structure
 
@@ -79,4 +79,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## ⭐ Acknowledgements
 
-Special thanks to [Arindam200](https://github.com/Arindam200) for the original repository that inspired this fork.
+Special thanks to [Arindam200](https://github.com/Arindam200) for the original repository that inspired 
